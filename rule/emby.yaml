@@ -1,78 +1,86 @@
 #emby
 payload:
-#星云
-  - DOMAIN-KEYWORD,nebula
-#misty
-  - DOMAIN-KEYWORD,misty
-#非越
-  - DOMAIN-KEYWORD,sfcj
-#终点站
-  - DOMAIN-KEYWORD,wtf
-#kiku
-  - DOMAIN-KEYWORD,ucloudho
-#纸片人
-  - DOMAIN-KEYWORD,embypl
-#coco
-  - DOMAIN-KEYWORD,259772
-#飞跃彩虹
-  - DOMAIN-KEYWORD,buzz
+#emby
+#AlphaTV
+  - DOMAIN-KEYWORD,186.169.2
+  - DOMAIN-KEYWORD,95.211.1
+  - DOMAIN-KEYWORD,alphatv
+#ASK
+  - DOMAIN-KEYWORD,asuba
+#AuroraMedia
+  - DOMAIN-KEYWORD,aurora
 #比比服
   - DOMAIN-KEYWORD,beebi
-#jingzhe
-  - DOMAIN-KEYWORD,jingzhe
-#叶子
-  - DOMAIN-KEYWORD,yezi
-#稳健服
-  - DOMAIN-KEYWORD,wenjian
-#鹅服
-  - DOMAIN-KEYWORD,cavps
-#见手青
-  - DOMAIN-KEYWORD,mooguu
-#ask
-  - DOMAIN-KEYWORD,asuba
-#西瓜
-  - DOMAIN-KEYWORD,1024.na
-#hka
-  - DOMAIN-KEYWORD,aliz
-#aurora
-  - DOMAIN-KEYWORD,aurora
-#ikun
-  - DOMAIN-KEYWORD,xxxh
-#探花tv
-  - DOMAIN-KEYWORD,huatv
-#叔服
-  - DOMAIN-KEYWORD,mcjok
-#cimmera
-  - DOMAIN-KEYWORD,alien6
-#lemby
-  - DOMAIN-KEYWORD,lemby
-#prejudice
-  - DOMAIN-KEYWORD,1l1
-#nya
-  - DOMAIN-KEYWORD,bangumi
-#saturday
-  - DOMAIN-KEYWORD,saturday
-#天南
-  - DOMAIN-KEYWORD,nanflix
-#阿尔法pro
-  - DOMAIN-KEYWORD,186.169.25
-#阿尔法海外
-  - DOMAIN-KEYWORD,alphatv
-#peach
-  - DOMAIN-KEYWORD,embymv
+#飞跃彩虹
+  - DOMAIN-KEYWORD,buzz
+#cc
+  - DOMAIN-KEYWORD,cc.coe
+#coco
+  - DOMAIN-KEYWORD,259772
+#doubon
+  - DOMAIN-KEYWORD,onatos
 #大V
   - DOMAIN-KEYWORD,viclu
-#月饼
-  - DOMAIN-KEYWORD,emby.m
-#琴鸟
-  - DOMAIN-KEYWORD,birdemby
-#墨云阁
-  - DOMAIN-KEYWORD,baiemby
-#起点站
-  - DOMAIN-KEYWORD,vfing
+#鹅服
+  - DOMAIN-KEYWORD,cavps
+#hka
+  - DOMAIN-KEYWORD,aliz
+#jingzhe
+  - DOMAIN-KEYWORD,jingzhe
+#见手青
+  - DOMAIN-KEYWORD,mooguu
+#kiku
+  - DOMAIN-KEYWORD,ucloudho
+#laoda
+  - DOMAIN-KEYWORD,kessok
+#lemby
+  - DOMAIN-KEYWORD,lemby
 #levilde
   - DOMAIN-KEYWORD,itsmydu
+#lily
+  - DOMAIN-KEYWORD,lilyem
+#琴鸟
+  - DOMAIN-KEYWORD,birdemby
+#misty
+  - DOMAIN-KEYWORD,misty
+#墨云阁
+  - DOMAIN-KEYWORD,baiemby
+#天南
+  - DOMAIN-KEYWORD,nanflix
+#星云
+  - DOMAIN-KEYWORD,nebula
+#nya
+  - DOMAIN-KEYWORD,bangumi
+#peach
+  - DOMAIN-KEYWORD,embymv
+#porn
+  - DOMAIN-KEYWORD,pornem
+#prejudice
+  - DOMAIN-KEYWORD,1l1
+#起点站
+  - DOMAIN-KEYWORD,vfing
+#sd
+  - DOMAIN-KEYWORD,saturday
+  - DOMAIN-KEYWORD,106.53.7
+#非越
+  - DOMAIN-KEYWORD,sfcj
+#叔服
+  - DOMAIN-KEYWORD,mcjok
+#探花tv
+  - DOMAIN-KEYWORD,huatv
 #temby
   - DOMAIN-KEYWORD,temby85
-#lily
-  - DOMAIN-KEYWORD,lyemby
+#终点站
+  - DOMAIN-KEYWORD,wtf
+#稳健服
+  - DOMAIN-KEYWORD,wenjian
+#西瓜
+  - DOMAIN-KEYWORD,1024.na
+#叶子
+  - DOMAIN-KEYWORD,yezi
+#月饼
+  - DOMAIN-KEYWORD,emby.m
+#纸片人
+  - DOMAIN-KEYWORD,embypl
+#竹影听风
+  - DOMAIN-KEYWORD,103.40.1
