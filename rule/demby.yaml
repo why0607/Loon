@@ -1,4 +1,4 @@
-#emby
+#demby
 payload:
 #emby
 #AlphaTV
@@ -9,10 +9,6 @@ payload:
   - DOMAIN-KEYWORD,asuba
 #AuroraMedia
   - DOMAIN-KEYWORD,aurora
-#比比服
-  - DOMAIN-KEYWORD,beebi
-#飞跃彩虹
-  - DOMAIN-KEYWORD,buzz
 #cc
   - DOMAIN-KEYWORD,cc.coe
 #coco
@@ -41,20 +37,14 @@ payload:
   - DOMAIN-KEYWORD,lilyem
 #琴鸟
   - DOMAIN-KEYWORD,birdemby
-#misty
-  - DOMAIN-KEYWORD,misty
 #墨云阁
   - DOMAIN-KEYWORD,baiemby
-#天南
+#nanflix
   - DOMAIN-KEYWORD,nanflix
-#星云
-  - DOMAIN-KEYWORD,nebula
 #nya
   - DOMAIN-KEYWORD,bangumi
 #peach
   - DOMAIN-KEYWORD,embymv
-#porn
-  - DOMAIN-KEYWORD,pornem
 #prejudice
   - DOMAIN-KEYWORD,1l1
 #起点站
@@ -70,8 +60,6 @@ payload:
   - DOMAIN-KEYWORD,huatv
 #temby
   - DOMAIN-KEYWORD,temby85
-#终点站
-  - DOMAIN-KEYWORD,wtf
 #稳健服
   - DOMAIN-KEYWORD,wenjian
 #西瓜
@@ -80,7 +68,5 @@ payload:
   - DOMAIN-KEYWORD,yezi
 #月饼
   - DOMAIN-KEYWORD,emby.m
-#纸片人
-  - DOMAIN-KEYWORD,embypl
-#竹影听风
+#饼服
   - DOMAIN-KEYWORD,103.40.1
