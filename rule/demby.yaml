@@ -3,8 +3,9 @@ payload:
 #emby
 #AlphaTV
   - DOMAIN-KEYWORD,186.169.2
-  - DOMAIN-KEYWORD,95.211.1
   - DOMAIN-KEYWORD,alphatv
+  - DOMAIN-KEYWORD,189.5.6
+  - DOMAIN-KEYWORD,95.211.1
 #ASK
   - DOMAIN-KEYWORD,asuba
 #AuroraMedia
