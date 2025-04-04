@@ -3,12 +3,16 @@ payload:
 #emby
 #飞跃彩虹
   - DOMAIN-KEYWORD,buzz
+#laoda
+  - DOMAIN-KEYWORD,kessok
 #misty
   - DOMAIN-KEYWORD,misty
 #星云
   - DOMAIN-KEYWORD,nebula
 #porn
   - DOMAIN-KEYWORD,pornem
+#探花tv
+  - DOMAIN-KEYWORD,huatv
 #终点站
   - DOMAIN-KEYWORD,wtf
 #youno

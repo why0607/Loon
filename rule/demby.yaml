@@ -2,10 +2,9 @@
 payload:
 #emby
 #AlphaTV
-  - DOMAIN-KEYWORD,186.169.2
+  - DOMAIN-KEYWORD,204clo
   - DOMAIN-KEYWORD,alphatv
   - DOMAIN-KEYWORD,189.5.6
-  - DOMAIN-KEYWORD,95.211.1
 #ASK
   - DOMAIN-KEYWORD,asuba
 #AuroraMedia
@@ -28,8 +27,6 @@ payload:
   - DOMAIN-KEYWORD,mooguu
 #kiku
   - DOMAIN-KEYWORD,ucloudho
-#laoda
-  - DOMAIN-KEYWORD,kessok
 #lemby
   - DOMAIN-KEYWORD,lemby
 #levilde
@@ -57,8 +54,6 @@ payload:
   - DOMAIN-KEYWORD,sfcj
 #叔服
   - DOMAIN-KEYWORD,mcjok
-#探花tv
-  - DOMAIN-KEYWORD,huatv
 #temby
   - DOMAIN-KEYWORD,temby85
 #稳健服
