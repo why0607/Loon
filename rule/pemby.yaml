@@ -1,8 +1,12 @@
 #demby
 payload:
 #emby
+#CineTrail
+  - DOMAIN-KEYWORD,emby1
 #飞跃彩虹
-  - DOMAIN-KEYWORD,buzz
+  - DOMAIN-KEYWORD,193.122.11
+#hka
+  - DOMAIN-KEYWORD,aliz
 #laoda
   - DOMAIN-KEYWORD,kessok
 #misty
@@ -11,8 +15,8 @@ payload:
   - DOMAIN-KEYWORD,nebula
 #porn
   - DOMAIN-KEYWORD,pornem
-#探花tv
-  - DOMAIN-KEYWORD,huatv
+#叔服
+  - DOMAIN-KEYWORD,mcjok
 #终点站
   - DOMAIN-KEYWORD,wtf
 #youno

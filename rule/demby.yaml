@@ -17,10 +17,6 @@ payload:
   - DOMAIN-KEYWORD,onatos
 #大V
   - DOMAIN-KEYWORD,viclu
-#鹅服
-  - DOMAIN-KEYWORD,cavps
-#hka
-  - DOMAIN-KEYWORD,aliz
 #jingzhe
   - DOMAIN-KEYWORD,jingzhe
 #见手青
@@ -46,14 +42,12 @@ payload:
 #prejudice
   - DOMAIN-KEYWORD,1l1
 #起点站
-  - DOMAIN-KEYWORD,vfing
+  - DOMAIN-KEYWORD,28.al
 #sd
   - DOMAIN-KEYWORD,saturday
   - DOMAIN-KEYWORD,106.53.7
 #非越
   - DOMAIN-KEYWORD,sfcj
-#叔服
-  - DOMAIN-KEYWORD,mcjok
 #temby
   - DOMAIN-KEYWORD,temby85
 #稳健服
@@ -66,3 +60,5 @@ payload:
   - DOMAIN-KEYWORD,emby.m
 #饼服
   - DOMAIN-KEYWORD,103.40.1
+#风灵
+  - DOMAIN-KEYWORD,vfing
