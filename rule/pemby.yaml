@@ -1,6 +1,8 @@
 #demby
 payload:
 #emby
+#beebi
+  - DOMAIN-KEYWORD,beeb
 #CineTrail
   - DOMAIN-KEYWORD,emby1
 #飞跃彩虹
