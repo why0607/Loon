@@ -1,6 +1,10 @@
 #demby
 payload:
 #emby
+#alpha
+  - DOMAIN-KEYWORD,alphatv
+#beebi
+  - DOMAIN-KEYWORD,beeb
 #CineTrail
   - DOMAIN-KEYWORD,emby1
 #飞跃彩虹
@@ -21,6 +25,8 @@ payload:
   - DOMAIN-KEYWORD,rjem
 #叔服
   - DOMAIN-KEYWORD,mcjok
+#探花
+  - DOMAIN-KEYWORD,tanhua
 #终点站
   - DOMAIN-KEYWORD,wtf
 #youno

@@ -3,7 +3,6 @@ payload:
 #emby
 #AlphaTV
   - DOMAIN-KEYWORD,204clo
-  - DOMAIN-KEYWORD,alphatv
   - DOMAIN-KEYWORD,189.5.6
 #ASK
   - DOMAIN-KEYWORD,711.lo
@@ -54,6 +53,8 @@ payload:
   - DOMAIN-KEYWORD,wenjian
 #西瓜
   - DOMAIN-KEYWORD,1024.na
+#yomo
+  - DOMAIN-KEYWORD,yomo
 #月饼
   - DOMAIN-KEYWORD,emby.m
 #饼服
