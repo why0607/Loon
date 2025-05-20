@@ -51,13 +51,11 @@ payload:
   - DOMAIN-KEYWORD,temby85
 #稳健服
   - DOMAIN-KEYWORD,wenjian
-#西瓜
-  - DOMAIN-KEYWORD,1024.na
 #yomo
   - DOMAIN-KEYWORD,yomo
 #月饼
   - DOMAIN-KEYWORD,emby.m
 #饼服
-  - DOMAIN-KEYWORD,103.40.1
+  - DOMAIN-KEYWORD,badowhis
 #风灵
   - DOMAIN-KEYWORD,vfing
