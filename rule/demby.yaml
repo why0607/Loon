@@ -1,36 +1,32 @@
 #demby
 payload:
 #emby
-#AlphaTV
+#alphatv
   - DOMAIN-KEYWORD,204clo
   - DOMAIN-KEYWORD,189.5.6
-#ASK
+#ask
   - DOMAIN-KEYWORD,711.lo
-#AuroraMedia
-  - DOMAIN-KEYWORD,aurora
 #cc
   - DOMAIN-KEYWORD,cc.coe
 #coco
   - DOMAIN-KEYWORD,259772
 #doubon
   - DOMAIN-KEYWORD,onatos
-#大V
+#dv
   - DOMAIN-KEYWORD,viclu
 #jingzhe
   - DOMAIN-KEYWORD,jingzhe
-#见手青
+#jsq
   - DOMAIN-KEYWORD,mooguu
 #kiku
   - DOMAIN-KEYWORD,ucloudho
-#lemby
-  - DOMAIN-KEYWORD,lemby
 #levilde
   - DOMAIN-KEYWORD,itsmydu
 #lily
   - DOMAIN-KEYWORD,lilyem
-#琴鸟
+#lyrebird
   - DOMAIN-KEYWORD,birdemby
-#墨云阁
+#moyunge
   - DOMAIN-KEYWORD,baiemby
 #nanflix
   - DOMAIN-KEYWORD,nanflix
@@ -40,22 +36,22 @@ payload:
   - DOMAIN-KEYWORD,embymv
 #prejudice
   - DOMAIN-KEYWORD,1l1
-#起点站
+#qdz
   - DOMAIN-KEYWORD,28.al
 #sd
   - DOMAIN-KEYWORD,saturday
   - DOMAIN-KEYWORD,43.139.1
-#非越
+#sfcj
   - DOMAIN-KEYWORD,sfcj
 #temby
   - DOMAIN-KEYWORD,temby85
-#稳健服
+#wenjian
   - DOMAIN-KEYWORD,wenjian
 #yomo
   - DOMAIN-KEYWORD,yomo
-#月饼
+#yuebing
   - DOMAIN-KEYWORD,emby.m
-#饼服
+#zytf
   - DOMAIN-KEYWORD,badowhis
-#风灵
+#vfing
   - DOMAIN-KEYWORD,vfing

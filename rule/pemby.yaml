@@ -3,13 +3,13 @@ payload:
 #emby
 #alpha
   - DOMAIN-KEYWORD,alphatv
-#beebi
+#bb
   - DOMAIN-KEYWORD,beeb
-#CineTrail
+#cinetrail
   - DOMAIN-KEYWORD,emby1
-#肥牛
+#feiniu
   - DOMAIN-KEYWORD,feiniu
-#飞跃彩虹
+#caihong
   - DOMAIN-KEYWORD,193.122.11
 #hka
   - DOMAIN-KEYWORD,aliz
@@ -19,23 +19,21 @@ payload:
   - DOMAIN-KEYWORD,meowfly
 #misty
   - DOMAIN-KEYWORD,misty
-#星云
-  - DOMAIN-KEYWORD,nebula
 #porn
   - DOMAIN-KEYWORD,pornem
 #ruji
   - DOMAIN-KEYWORD,rjem
-#叔服
+#shufu
   - DOMAIN-KEYWORD,mcjok
 #star
   - DOMAIN-KEYWORD,staryuki
-#探花
+#tanhuatv
   - DOMAIN-KEYWORD,tanhua
-#西瓜
-  - DOMAIN-KEYWORD,chilledme
-#终点站
+#terminus
   - DOMAIN-KEYWORD,wtf
+#xigua
+  - DOMAIN-KEYWORD,chilledme
 #youno
   - DOMAIN-KEYWORD,youno
-#纸片人
+#zpr
   - DOMAIN-KEYWORD,embypl
