@@ -3,6 +3,8 @@ payload:
 #emby
 #alpha
   - DOMAIN-KEYWORD,alphatv
+#ask
+  - DOMAIN-KEYWORD,711.lo
 #bb
   - DOMAIN-KEYWORD,beeb
 #cinetrail
