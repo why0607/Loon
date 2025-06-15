@@ -1,6 +1,7 @@
 {
   "name":"自用", "description":"why自用", 
-  "icons":[    
+  "icons":[
+    {"name":"105", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/105.png"},    
     {"name":"alist", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/alist.png"},
     {"name":"alphatv", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/alphatv.png"},
     {"name":"alphatv-child", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/alphatv-child.png"},

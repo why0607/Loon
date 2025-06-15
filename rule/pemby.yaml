@@ -1,6 +1,8 @@
 #demby
 payload:
 #emby
+#105
+  - DOMAIN-KEYWORD,ciallo
 #alpha
   - DOMAIN-KEYWORD,alphatv
 #ask
@@ -26,7 +28,7 @@ payload:
 #porn
   - DOMAIN-KEYWORD,pornem
 #ruji
-  - DOMAIN-KEYWORD,rjemb
+  - DOMAIN-KEYWORD,rjf37
 #shufu
   - DOMAIN-KEYWORD,mcjok
 #star
