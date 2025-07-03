@@ -41,5 +41,7 @@ payload:
   - DOMAIN-KEYWORD,chilledme
 #youno
   - DOMAIN-KEYWORD,youno
+#zox
+  - DOMAIN-KEYWORD,zoxfree
 #zpr
   - DOMAIN-KEYWORD,embypl
