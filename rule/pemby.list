@@ -9,16 +9,12 @@ DOMAIN-KEYWORD,711.lo
 DOMAIN-KEYWORD,beeb
 #cinetrail
 DOMAIN-KEYWORD,emby1
-#feiniu
-DOMAIN-KEYWORD,feiniu
 #caihong
 DOMAIN-KEYWORD,feiyue
 #hka
 DOMAIN-KEYWORD,aliz
 #laoda
 DOMAIN-KEYWORD,kessok
-#liminal
-DOMAIN-KEYWORD,liminaln
 #meowfly
 DOMAIN-KEYWORD,meowfly
 #misty
@@ -27,8 +23,6 @@ DOMAIN-KEYWORD,misty
 DOMAIN-KEYWORD,pornem
 #shufu
 DOMAIN-KEYWORD,mcjok
-#star
-DOMAIN-KEYWORD,staryuki
 #tanhuatv
 DOMAIN-KEYWORD,tanhua
 #terminus
@@ -37,6 +31,8 @@ DOMAIN-KEYWORD,wtf
 DOMAIN-KEYWORD,chilledme
 #youno
 DOMAIN-KEYWORD,youno
+#youqibin
+DOMAIN-KEYWORD,emby.heis
 #zox
 DOMAIN-KEYWORD,zoxfree
 #zpr
