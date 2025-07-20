@@ -2,7 +2,6 @@
   "name":"自用", "description":"why自用", 
   "icons":[
     {"name":"105", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/105.png"},    
-    {"name":"alist", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/alist.png"},
     {"name":"alphatv", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/alphatv.png"},
     {"name":"alphatv-child", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/alphatv-child.png"},
     {"name":"alphatv-pro", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/alphatv-pro.png"},
@@ -41,8 +40,8 @@
     {"name":"sdx", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/sdx.png"},
     {"name":"sdporn", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/sdporn.png"},
     {"name":"sfcj", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/sfcj.png"},
-    {"name":"shouhou", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/shouhou.png"},
     {"name":"shufu", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/shufu.png"},
+    {"name":"sntp", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/sntp.png"},
     {"name":"tanhuatv", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/tanhuatv.png"},
     {"name":"terminus", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/terminus.png"},
     {"name":"wenjian", "url":"https:\/\/raw.githubusercontent.com\/why0607\/loon\/main\/icon\/wenjian.png"},
