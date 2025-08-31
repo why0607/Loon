@@ -3,7 +3,7 @@ payload:
 #emby
 #alphatv
   - DOMAIN-KEYWORD,204clo
-  - DOMAIN-KEYWORD,189.5.6
+  - DOMAIN-KEYWORD,alphatv
 #ask
   - DOMAIN-KEYWORD,asuba
 #cc
@@ -24,30 +24,31 @@ payload:
   - DOMAIN-KEYWORD,lilyem
 #lyrebird
   - DOMAIN-KEYWORD,birdemby
-#moyunge
-  - DOMAIN-KEYWORD,baiemby
+#mooncake
+  - DOMAIN-KEYWORD,emby.m
 #msky
   - DOMAIN-KEYWORD,msky
+#myg
+  - DOMAIN-KEYWORD,baiemby
 #nanflix
   - DOMAIN-KEYWORD,nanflix
 #nya
   - DOMAIN-KEYWORD,bangumi
 #peach
   - DOMAIN-KEYWORD,embymv
-#prejudice
-  - DOMAIN-KEYWORD,1l1
 #qdz
+  - DOMAIN-KEYWORD,qdz1.t
   - DOMAIN-KEYWORD,28.al
 #sd
   - DOMAIN-KEYWORD,saturday
+#sherk
+  - DOMAIN-KEYWORD,sherkme
 #sfcj
   - DOMAIN-KEYWORD,sfcj
 #wenjian
   - DOMAIN-KEYWORD,wenjian
 #yomo
   - DOMAIN-KEYWORD,yamo
-#yuebing
-  - DOMAIN-KEYWORD,emby.m
 #zytf
   - DOMAIN-KEYWORD,badowhis
 #vfing
