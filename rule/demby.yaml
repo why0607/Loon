@@ -3,7 +3,6 @@ payload:
 #emby
 #alphatv
   - DOMAIN-KEYWORD,204clo
-  - DOMAIN-KEYWORD,alphatv
 #ask
   - DOMAIN-KEYWORD,asuba
 #cc
@@ -45,11 +44,11 @@ payload:
   - DOMAIN-KEYWORD,sherkme
 #sfcj
   - DOMAIN-KEYWORD,sfcj
+#uhd
+  - DOMAIN-KEYWORD,uhd
 #wenjian
   - DOMAIN-KEYWORD,wenjian
 #yomo
   - DOMAIN-KEYWORD,yamo
-#zytf
-  - DOMAIN-KEYWORD,badowhis
 #vfing
   - DOMAIN-KEYWORD,vfing
